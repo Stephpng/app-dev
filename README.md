@@ -24,7 +24,7 @@ My first repository
 
 ---
 
-![Stranger Things Poster](![image](https://github.com/user-attachments/assets/2c6c9fcf-89e9-4f56-85c7-a2746497fb98)
+![Prison Break Poster](![image](https://github.com/user-attachments/assets/2c6c9fcf-89e9-4f56-85c7-a2746497fb98)
 )  
 *Image source: Placeholder (replace with actual link)*
 
