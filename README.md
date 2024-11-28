@@ -24,7 +24,8 @@ My first repository
 
 ---
 
-![Prison Break Poster](https://images.app.goo.gl/QD3nbRyer6oFhswm7)  
+![Prison Break Poster](![images](https://github.com/user-attachments/assets/b10c718a-01af-41c6-97ca-6b6b7099033e)
+)  
 *Image source: Placeholder (replace with actual link)*
 
 ---
